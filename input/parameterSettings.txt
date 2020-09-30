@@ -1,0 +1,5 @@
+scenarioNumber,1
+virusTransmissionProbability,0.394
+totalNumberSimulations,10
+totalEpochsHorizon,80
+folderNameOutput,testfolder

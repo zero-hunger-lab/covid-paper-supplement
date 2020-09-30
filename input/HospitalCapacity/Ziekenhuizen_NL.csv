@@ -1,0 +1,75 @@
+ZiekenhuisMetIC,CoropZiekenhuis,Locatie,Postcode,Plaats,Long,Lat,Provincie,CoropCode,COROP-standaard,Type,Polibezoeken,Aantal bedden,IC Bedden Schatting
+"Admiraal	De	Ruyter	Ziekenhuis",H_OverigZeeland,Middelburg,4331LZ,Goes,51.49658346,3.610041451,Zeeland,CR32,OverigZeeland,algemeen,98267,390,13
+"Albert	Schweitzer	Ziekenhuis",H_Zuidoost_Zuid_Holland,Dordrecht,3300AK,Dordrecht,51.80448046,4.698737884,Zuid-Holland,CR30,Zuidoost_Zuid_Holland,algemeen,152963,515,17
+Alrijne,H_AgglomeratieLeidenenBollenstreek,Leiden,2334CK,Leiden,52.17369878,4.482223935,Zuid-Holland,CR25,AgglomeratieLeidenenBollenstreek,algemeen,153971,494,17
+AMC + VU,H_Groot_Amsterdam,,1100DD,Amsterdam,51.8611924,4.358999025,Noord-Holland,CR23,Groot_Amsterdam,academisch,93058,1002,34
+"Amphia	Ziekenhuis",H_West_Noord_Brabant,,4800RL,Breda,51.59348732,4.777315523,Noord-Brabant,CR33,West_Noord_Brabant,algemeen,188767,805,27
+"Antoni	van	Leeuwenhoek ",H_Groot_Amsterdam,,1006BE,Amsterdam,52.37777895,4.90558954,Noord-Holland,CR23,Groot_Amsterdam,specialistisch,,,0
+"Antonius	Ziekenhuis",H_Zuidwest_Friesland,Emmeloord,8303BX,Emmeloord,52.70231485,5.732858084,Friesland,CR05,Zuidwest_Friesland,algemeen,66236,286,10
+"Beatrix	Ziekenhuis	-	Rivas	Zorggroep ",H_Zuidoost_Zuid_Holland,,4204AA,Gorinchem,51.83906642,4.956918275,Zuid-Holland,CR30,Zuidoost_Zuid_Holland,algemeen,56867,219,7
+"Bernhoven	Ziekenhuis",H_Noordoost_Noord_Brabant,,5406PT,Uden,51.67487205,5.60172995,Noord-Brabant,CR35,Noordoost_Noord_Brabant,algemeen,91944,392,13
+"BovenIJ	Ziekenhuis ",H_Groot_Amsterdam,,1030BD,Amsterdam,52.39237933,4.892105294,Noord-Holland,CR23,Groot_Amsterdam,algemeen,57725,188,6
+"Bravis	Ziekenhuis",H_West_Noord_Brabant,"Bergen	op	Zoom",4624VT,Bergen op Zoom,51.48781935,4.314925648,Noord-Brabant,CR33,West_Noord_Brabant,algemeen,132637,610,21
+"Canisius-Wilhelmina	Ziekenhuis ",H_Arnhem_Nijmegen,,6500GS,Nijmegen,51.84608719,5.854794917,Gelderland,CR15,Arnhem_Nijmegen,algemeen,127452,533,18
+"Catharina	Ziekenhuis ",H_Zuidoost_Noord_Brabant,,5602ZA,Eindhoven,51.44199628,5.481339437,Noord-Brabant,CR36,Zuidoost_Noord_Brabant,algemeen,129023,663,22
+"Centraal	Militair	Hospitaal ",H_Utrecht,,3509AA,Utrecht,52.09304138,5.075819803,Utrecht,CR17,Utrecht,specialistisch,,,0
+"Deventer	Ziekenhuis ",H_Zuidwest_Overijssel,,7400GC,Deventer,52.25081457,6.16067449,Overijssel,CR11,Zuidwest_Overijssel,algemeen,93548,350,12
+Diakonessenhuis,H_Utrecht,Utrecht,3508TG,Utrecht,52.09304138,5.075819803,Utrecht,CR17,Utrecht,algemeen,158127,546,18
+Dijklander Purmerend,H_Groot_Amsterdam,,1441RN,Purmerend,52.50068829,4.962656158,Noord-Holland,CR23,Groot_Amsterdam,algemeen,148991,534,18
+"Elkerliek	Ziekenhuis ",H_Zuidoost_Noord_Brabant,,5700AB,Helmond,51.48670836,5.662183267,Noord-Brabant,CR36,Zuidoost_Noord_Brabant,algemeen,96586,363,12
+"Erasmus	MC ",H_Groot_Rijnmond,,3015CE,Rotterdam,51.91217229,4.464012036,Zuid-Holland,CR29,Groot_Rijnmond,academisch,13305,1125,38
+"ETZ	TweeSteden	 ",H_Midden_Noord_Brabant,,5042AD,Tilburg,51.57678123,5.063180568,Noord-Brabant,CR34,Midden_Noord_Brabant,algemeen,148557,936,32
+Flevoziekenhuis ,H_Flevoland,,1300EG,Almere,52.41690712,5.219714125,Flevoland,CR40,Flevoland,algemeen,71105,394,13
+"Franciscus	Gasthuis	&	Vlietland",H_Groot_Rijnmond,Rotterdam,3045PM,Rotterdam,51.94511872,4.464481595,Zuid-Holland,CR29,Groot_Rijnmond,algemeen,213055,873,30
+"Gelre	ziekenhuizen",H_Veluwe,Apeldoorn,7300DS,Apeldoorn,52.21730292,5.95979316,Gelderland,CR13,Veluwe,algemeen,136945,542,18
+"Groene	Hart	Ziekenhuis ",H_Oost_Zuid_Holland,,2800BB,Gouda,52.01398633,4.700117197,Zuid-Holland,CR28,Oost_Zuid_Holland,algemeen,105814,390,13
+"Haaglanden	Medisch	Centrum",H_Agglomeratie_s_Gravenhage,"Den	Haag",2512VA,Den Haag,52.07404152,4.299225546,Zuid-Holland,CR26,Agglomeratie_s_Gravenhage,algemeen,204947,695,24
+HagaZiekenhuis,H_Agglomeratie_s_Gravenhage,,2504LN,Den Haag,51.97430132,4.507413088,Zuid-Holland,CR26,Agglomeratie_s_Gravenhage,algemeen,,,0
+"IJsselland	Ziekenhuis",H_Groot_Rijnmond,,2900AR,Capelle a/d Ijssel,51.91427584,4.568979538,Zuid-Holland,CR29,Groot_Rijnmond,algemeen,101103,332,11
+"Ikazia	Ziekenhuis	Rotterdam",H_Groot_Rijnmond,,3008AA,Rotterdam,51.95511865,4.530119091,Zuid-Holland,CR29,Groot_Rijnmond,algemeen,85239,354,12
+"Isala	Zwolle",H_Noord_Overijssel,,8000GK,Zwolle,52.5036173,6.098757542,Overijssel,CR10,Noord_Overijssel,algemeen,223658,1103,37
+"Jeroen	Bosch	Ziekenhuis",H_Noordoost_Noord_Brabant,,5200ME,s-Hertogenbosch,51.68812211,5.294249056,Noord-Brabant,CR35,Noordoost_Noord_Brabant,algemeen,153976,678,23
+"LangeLand	Ziekenhuis",H_Agglomeratie_s_Gravenhage,,2700KJ,Zoetermeer,52.06090904,4.482506987,Zuid-Holland,CR26,Agglomeratie_s_Gravenhage,algemeen,67473,220,7
+"Laurentius	Ziekenhuis	Roermond",H_Midden_Limburg,,6040AX,Roermond,51.21353189,6.00120935,Limburg,CR38,Midden_Limburg,algemeen,87802,271,9
+"Leids	Universitair	Medisch	Centrum",H_AgglomeratieLeidenenBollenstreek,,2300RC,Leiden,52.15958471,4.479015476,Zuid-Holland,CR25,AgglomeratieLeidenenBollenstreek,academisch,97287,,0
+"Maasstad	Ziekenhuis",H_Groot_Rijnmond,,3007AC,Rotterdam,51.95511865,4.530119091,Zuid-Holland,CR29,Groot_Rijnmond,algemeen + categoraal,13282,646,22
+"Maastricht	UMC",H_Zuid_Limburg,,6202AZ,Maastricht,50.8580656,5.694057444,Limburg,CR39,Zuid_Limburg,academisch,109404,695,24
+"Maasziekenhuis	Pantein",H_Noordoost_Noord_Brabant,,5830AB,Boxmeer,51.64671509,5.934158163,Noord-Brabant,CR35,Noordoost_Noord_Brabant,algemeen,38815,168,6
+"Martini	Ziekenhuis",H_OverigGroningen,,9700RM,Groningen,53.21367945,6.561481169,Groningen,CR03,OverigGroningen,algemeen + categoraal,144511,625,21
+"Maxima	Medisch	Centrum",H_Zuidoost_Noord_Brabant,,5500MB,Veldhoven,51.42195495,5.396369165,Noord-Brabant,CR36,Zuidoost_Noord_Brabant,algemeen,124831,614,21
+"Meander	MC",H_Utrecht,,3800BM,Amersfoort,52.17762816,5.381100217,Utrecht,CR17,Utrecht,algemeen,155623,556,19
+"Medisch	Centrum	Leeuwarden ",H_Noord_Friesland,,8901BR,Leeuwarden,53.19735706,5.787627315,Friesland,CR04,Noord_Friesland,algemeen,174919,653,22
+"Medisch	Spectrum	Twente",H_Twente,,7500KA,Enschede,52.21850446,6.893073952,Overijssel,CR12,Twente,algemeen,121268,528,18
+"Nij	Smellinghe",H_Zuidoost_Friesland,,9200DA,Drachten,53.11443322,6.080345085,Friesland,CR06,Zuidoost_Friesland,algemeen,76414,265,9
+"Noordwest	Ziekenhuisgroep",H_Alkmaarenomgeving,,1815JD,Alkmaar,52.62674149,4.735915685,Noord-Holland,CR19,Alkmaarenomgeving,algemeen,16643,829,28
+OLVG,H_Groot_Amsterdam,,1090HM,Amsterdam,52.37737392,4.893616034,Noord-Holland,CR23,Groot_Amsterdam,algemeen,234324,101,3
+"Ommelander	Ziekenhuis",H_OverigGroningen,,9671CX,Winschoten,53.14629564,7.034988036,Groningen,CR03,OverigGroningen,algemeen,67801,191,6
+"Radboud	umc",H_Arnhem_Nijmegen,,6525GA,Nijmegen,51.82366852,5.863108702,Gelderland,CR15,Arnhem_Nijmegen,academisch,971,593,20
+"Reinier	de	Graaf Gasthuis",H_Agglomeratie_s_Gravenhage,,2625AD,Delft,51.99746238,4.339014039,Zuid-Holland,CR26,Agglomeratie_s_Gravenhage,algemeen,159116,637,22
+"Rijnstate	Arnhem",H_Arnhem_Nijmegen,,6800TA,Arnhem,51.98474522,5.906942961,Gelderland,CR15,Arnhem_Nijmegen,algemeen,190276,772,26
+Ropke Zweers ziekenhuis Saxenburgh,H_Noord_Overijssel,,7772SE,Hardenberg,52.57062901,6.639228956,Overijssel,CR10,Noord_Overijssel,algemeen,44659,165,6
+Scheper ziekenhuis - Treant,H_Zuidoost_Drenthe,,7824AA,Emmen,52.78455612,6.913413924,Drenthe,CR08,Zuidoost_Drenthe,algemeen,143408,628,21
+"Slingeland	Ziekenhuis",H_Achterhoek,,7000AD,Doetinchem,51.966436,6.290561948,Gelderland,CR14,Achterhoek,algemeen,107653,348,12
+"Spaarne	Gasthuis",H_AgglomeratieHaarlem,,2130AT,Hoofddorp,52.3131709,4.693837039,Noord-Holland,CR21,AgglomeratieHaarlem,algemeen,219132,611,21
+"Spijkenisse	Medisch	Centrum",H_Groot_Rijnmond,,3201GZ,Spijkenisse,"51.846775268867	4.3366569280176",4.336656928,Zuid-Holland,CR29,Groot_Rijnmond,algemeen,120378,50,2
+"St.	Anna	Ziekenhuis",H_Zuidoost_Noord_Brabant,,5660AB,Geldrop,51.4138651,5.560252949,Noord-Brabant,CR36,Zuidoost_Noord_Brabant,algemeen,7925,295,10
+"St.	Antonius	Ziekenhuis",H_Utrecht,,3543AZ,Utrecht,52.10372458,5.057211907,Utrecht,CR17,Utrecht,algemeen,229854,1016,34
+St. Jans gasthuis,H_Midden_Limburg,,6001BE,Weert,51.253707,5.713099737,Limburg,CR38,Midden_Limburg,algemeen,72676,234,8
+St. Rode Kruis ziekenhuis,H_IJmond,,1942LE,Beverwijk,52.47996753,4.649591925,Noord-Holland,CR20,IJmond,algemeen + categoraal,70889,257,9
+"Streekziekenhuis	Koningin	Beatrix",H_Achterhoek,,7100GG,Winterswijk,51.97506734,6.718178437,Gelderland,CR14,Achterhoek,algemeen,65648,214,7
+"Tergooi	-	locatie	Hilversum",H_HetGooienVechtstreek,,1201DA,Hilversum,52.23093476,5.176689973,Noord-Holland,CR24,HetGooienVechtstreek,algemeen,125027,454,15
+"Tjongerschans	ziekenhuis	Heerenveen",H_Zuidoost_Friesland,,8440MA,Heerenveen,52.96718813,5.924980572,Friesland,CR06,Zuidoost_Friesland,algemeen,174919,263,9
+"UMC	Utrecht",H_Utrecht,,3584CX,Utrecht,52.08602259,5.17960447,Utrecht,CR17,Utrecht,academisch,99067,1042,35
+UMC Groningen,H_OverigGroningen,,9713GZ,Groningen,53.22098827,6.57704645,Groningen,CR03,OverigGroningen,academisch,92136,986,33
+"Van	Weel-Bethesda	Ziekenhuis",H_Groot_Rijnmond,,3240AD,Middelharnis,51.7536594,4.164964346,Zuid-Holland,CR29,Groot_Rijnmond,algemeen,50452,193,7
+"VieCuri	-	locatie	Venlo ",H_Noord_Limburg,,5900BX,Venlo,51.36910446,6.173956219,Limburg,CR37,Noord_Limburg,algemeen,108971,486,16
+Waterlandziekenhuis,H_Groot_Amsterdam,,1440AG,Purmerend,52.5103864,4.949898669,Noord-Holland,CR23,Groot_Amsterdam,algemeen,,,0
+"Wilhelmina	Ziekenhuis	Assen",H_Noord_Drenthe,,9401RK,Assen,52.98371358,6.565182704,Drenthe,CR07,Noord_Drenthe,algemeen,73336,251,8
+"Zaans	Medisch	Centrum",H_Zaanstreek,,1500EE,Zaandam,52.43793557,4.828435444,Noord-Holland,CR22,Zaanstreek,algemeen,,,0
+"Ziekenhuis	Amstelland",H_Groot_Amsterdam,,1180AH,Amstelveen,52.32133006,4.863568233,Noord-Holland,CR23,Groot_Amsterdam,algemeen,65319,255,9
+"Ziekenhuis	Gelderse	Vallei",H_Veluwe,,6710HN,Ede,52.04307431,5.669615937,Gelderland,CR13,Veluwe,algemeen,113793,446,15
+"Ziekenhuis	Rivierenland",H_Zuidwest_Gelderland,,4000HA,Tiel,51.88943245,5.423554752,Gelderland,CR16,Zuidwest_Gelderland,algemeen,64697,262,9
+"Ziekenhuis	St	Jansdal",H_Veluwe,,3840AC,Harderwijk,52.35226607,5.621717279,Gelderland,CR13,Veluwe,algemeen,85071,341,12
+"Ziekenhuisgroep	Twente",H_Twente,,7550AM,Hengelo,52.26647837,6.790389049,Overijssel,CR12,Twente,algemeen,162079,603,20
+"ZorgSaam	Zeeuws-Vlaanderen",H_Zeeuwsch_Vlaanderen,,4535PA,Terneuzen,51.30894163,3.861252201,Zeeland,CR31,Zeeuwsch_Vlaanderen,algemeen,6107,257,9
+Zuyderland,H_Zuid_Limburg,,6419PC,Heerlen,50.86866002,5.976896672,Limburg,CR39,Zuid_Limburg,algemeen,244564,980,33
